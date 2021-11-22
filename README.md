@@ -9,6 +9,8 @@ Here we are implementing CBAM based model for image classification purpose. CBAM
 
 CBAM block is used to modify the `Resnet` based architencture. Resnet gives very good results as depth of the network is increased with the help of skip connection residue modelling approach. For more: https://arxiv.org/abs/1512.03385
 
+`DataSet`: https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
+
 ## Methodology
 Model development is divided into multiple steps as mentioned below,
 
